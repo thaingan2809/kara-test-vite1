@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karaoke9999.com/sitemap.xml
