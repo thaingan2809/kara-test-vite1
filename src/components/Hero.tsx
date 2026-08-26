@@ -2,15 +2,15 @@ import { forwardRef, useEffect, useState, useId } from 'react';
 import gsap from 'gsap';
 
 const HERO_VIDEO_MOBILE =
-  'https://res.cloudinary.com/dcnf2dmf/video/upload/q_auto,f_mp4/v1787709329/Hero-MobileHandbreak.mp4';
+  'https://pub-443329540b1043df9248eba039428958.r2.dev/Hero-MobileHandbreak.mp4';
 const HERO_VIDEO_DESKTOP =
-  'https://res.cloudinary.com/dcnf2dmf/video/upload/q_auto,f_mp4/v1787711743/Background_Video_DesktopHandbreak.mp4';
+  'https://pub-443329540b1043df9248eba039428958.r2.dev/Background%20Video%20DesktopHandbreak.mp4';
 
-// Poster = frame đầu (so_0) của chính video đó, để hiện ngay khi mạng chậm chưa tải kịp video
+// Poster = frame đầu của chính video đó, để hiện ngay khi mạng chậm chưa tải kịp video
 const HERO_POSTER_MOBILE =
-  'https://res.cloudinary.com/dcnf2dmf/video/upload/f_jpg,q_auto,w_800,so_0/v1787709329/Hero-MobileHandbreak.jpg';
+  'https://pub-443329540b1043df9248eba039428958.r2.dev/Hero-MobileHandbreak.jpg';
 const HERO_POSTER_DESKTOP =
-  'https://res.cloudinary.com/dcnf2dmf/video/upload/f_jpg,q_auto,w_1280,so_0/v1787711743/Background_Video_DesktopHandbreak.jpg';
+  'https://pub-443329540b1043df9248eba039428958.r2.dev/Background%20Video%20DesktopHandbreak.jpg';
 
 const MOBILE_MEDIA_QUERY = '(max-width: 767px)';
 

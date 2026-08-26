@@ -13,27 +13,27 @@ export interface MomentItem {
 export const moments: MomentItem[] = [
   {
     id: 1,
-    src: 'https://res.cloudinary.com/dcnf2dmf/video/upload/q_auto,f_mp4/v1787728784/Khung.mp4',
+    src: 'https://pub-443329540b1043df9248eba039428958.r2.dev/MomentSection%201.mp4',
     poster:
-      'https://res.cloudinary.com/dcnf2dmf/video/upload/so_0,f_jpg,q_auto,w_800/v1787728784/Khung.jpg',
+      'https://pub-443329540b1043df9248eba039428958.r2.dev/MomentSection%201.jpg',
     alt: 'Khách hàng đến ca hát, vui chơi tại Karaoke 9999',
     title: 'Đến Là Hát',
     subtitle: 'Khách tới quán là bùng nổ ngay',
   },
   {
     id: 2,
-    src: 'https://res.cloudinary.com/dcnf2dmf/video/upload/q_auto,f_mp4/v1787728755/Khung_1.mp4',
+    src: 'https://pub-443329540b1043df9248eba039428958.r2.dev/MomentSection%202.mp4',
     poster:
-      'https://res.cloudinary.com/dcnf2dmf/video/upload/so_0,f_jpg,q_auto,w_800/v1787728755/Khung_1.jpg',
+      'https://pub-443329540b1043df9248eba039428958.r2.dev/MomentSection%202.jpg',
     alt: 'Không khí hát hò, nhảy múa tại Karaoke 9999',
     title: 'Cháy Hết Mình',
     subtitle: 'Nhạc lên là quẩy tới bến',
   },
   {
     id: 3,
-    src: 'https://res.cloudinary.com/dcnf2dmf/video/upload/q_auto,f_mp4/v1787728755/Khung_3.mp4',
+    src: 'https://pub-443329540b1043df9248eba039428958.r2.dev/MomentSection%203.mp4',
     poster:
-      'https://res.cloudinary.com/dcnf2dmf/video/upload/so_0,f_jpg,q_auto,w_800/v1787728755/Khung_3.jpg',
+      'https://pub-443329540b1043df9248eba039428958.r2.dev/MomentSection%203.jpg',
     alt: 'Khoảnh khắc vui nhộn của khách hàng tại Karaoke 9999',
     title: 'Vui Là Chính',
     subtitle: 'Ai cũng thành ca sĩ tối nay',
